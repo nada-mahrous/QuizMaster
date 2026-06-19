@@ -112,11 +112,7 @@ Stored data includes:
 
 ## Live Demo
 
-Add your GitHub Pages link here:
-
-```text
-https://nada-mahrous.github.io/QuizMaster/
-```
+🚀 [Open QuizMaster](https://nada-mahrous.github.io/QuizMaster/)
 
 ---
 
