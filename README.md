@@ -115,7 +115,7 @@ Stored data includes:
 Add your GitHub Pages link here:
 
 ```text
-https://YOUR_USERNAME.github.io/QuizMaster/
+https://nada-mahrous.github.io/QuizMaster/
 ```
 
 ---
